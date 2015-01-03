@@ -1,0 +1,10 @@
+#errorHeader {
+    color: #a94442;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #F2dede;
+    border-color:#ebccd1;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid transparent;
+}
